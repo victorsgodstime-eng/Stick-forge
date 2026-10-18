@@ -1,0 +1,8 @@
+{
+ "appId": "com.stickforge.studio",
+ "appName": "StickForge 3D",
+ "webDir": "www",
+ "server": {
+  "androidScheme": "https"
+ }
+}
